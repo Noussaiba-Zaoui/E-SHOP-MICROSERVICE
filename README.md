@@ -1,4 +1,4 @@
-# SHOP - Microservices Architecture Development and Deployment  
+# E-SHOP - Microservices Architecture Development and Deployment  
 
 
 
