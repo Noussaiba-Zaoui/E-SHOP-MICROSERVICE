@@ -1,6 +1,6 @@
 # SHOP - Microservices Architecture Development and Deployment  
 
-### 🗓️ **March 2024**  
+
 
 This project involves the design, implementation, and deployment of a scalable and secure **microservices architecture** using modern frameworks and tools. The system leverages Spring Boot for microservices development, Docker and Kubernetes for containerization and orchestration, and robust security, communication, and monitoring mechanisms.  
 
