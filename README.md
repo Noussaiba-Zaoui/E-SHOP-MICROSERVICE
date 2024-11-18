@@ -37,7 +37,7 @@ Ensure the following tools are installed on your machine:
 - [Kubernetes (kubectl)](https://kubernetes.io/)  
 - [Java 17](https://openjdk.org/projects/jdk/17/)  
 - [Node.js](https://nodejs.org/)  
-- [Keycloak](https://www.keycloak.org/)  
+ 
 
 ### Steps:  
 1. **Clone the repository:**  
@@ -46,6 +46,6 @@ Ensure the following tools are installed on your machine:
    cd SHOP
   
 
-## 🚀 **👩‍💻 Contributors**  
+##  **👩‍💻 Contributors**  
 . Noussaiba Zaoui
 
